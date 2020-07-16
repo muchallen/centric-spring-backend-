@@ -1,0 +1,6 @@
+applications:
+- name: centric-online-shop
+path: target/demo-0.0.1-SNAPSHOT.jar
+domain: cfapps.io
+memory: 950M
+instance: 1
